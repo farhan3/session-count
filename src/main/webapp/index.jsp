@@ -2,7 +2,7 @@
 <body>
   <h2>Hello ServiceStage!</h2>
   <UL>
-    <LI> hello! </A>
+    <LI> update 2018-10-16-1133 </A>
     <LI> This is a simple web/java application, using http session to count web browser.</A>
     <LI> Count: <A HREF="./count"> Count Servlet</A>
   </UL>
